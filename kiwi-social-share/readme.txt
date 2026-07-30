@@ -1,10 +1,11 @@
 ﻿=== Social Sharing Plugin - Kiwi ===
 
 Contributors: wpkube
-Tags: social media button, social share button, social floating bar, social share bar, facebook share, social sharing icons, twitter share, woocommerce sharing, share buttons, pinterest share, social share counters
+Tags: social media, social share, share buttons, facebook, social
 Requires at least: 3.8
-Tested up to: 6.5
-Stable tag: 2.1.8
+Requires PHP: 7.4
+Tested up to: 7.0
+Stable tag: 2.1.9
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -77,6 +78,9 @@ Floating Bar Filters
     kiwi_after_floating_bar
 
 == Changelog ==
+= 2.1.9 =
+Tested up to 7.0
+
 = 2.1.8 =
 Security fixes
 
