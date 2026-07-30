@@ -5,7 +5,7 @@ Tags: social media, social share, share buttons, facebook, social
 Requires at least: 3.8
 Requires PHP: 7.4
 Tested up to: 7.0
-Stable tag: 2.1.9
+Stable tag: 2.1.9.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -78,6 +78,9 @@ Floating Bar Filters
     kiwi_after_floating_bar
 
 == Changelog ==
+= 2.1.9.1 =
+Minor tweak
+
 = 2.1.9 =
 Tested up to 7.0
 

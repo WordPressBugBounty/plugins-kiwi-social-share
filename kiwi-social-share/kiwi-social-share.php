@@ -1,12 +1,12 @@
 <?php
 /*
  * Plugin Name: Kiwi Social Share - Social Media Share Buttons & Icons
- * Version: 2.1.9
+ * Version: 2.1.9.1
  * Description: Really beautiful & simple social media & share buttons + icons. Simplicity & speed is key with this social media share plugin.
  * Author: WPKube
  * Author URI: https://www.wpkube.com/
  * Requires at least: 4.0
- * Tested up to: 6.2
+ * Tested up to: 7.0
  *
  * Text Domain: kiwi-social-share
  * Domain Path: /languages/
